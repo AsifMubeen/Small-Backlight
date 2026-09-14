@@ -1,3 +1,3 @@
-LED Backlight Module (5 × 5.7 cm)
+LED Backlight Module
 
 A compact LED backlight panel using six 1206 SMD LEDs.
